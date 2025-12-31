@@ -32,8 +32,8 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: [Divyanshu Srivastava](https://www.linkedin.com/in/divyanshu-srivastava-73761721b/)
+- 💼 LinkedIn: [Divyanshu Srivastava](https://www.linkedin.com/in/divyanshu-srivastava-564a32230/)
 - 📧 Email: divyanshusrivastava777@gmail.com
 
 ⚡ Fun fact: When I’m not coding, I enjoy gaming and capturing nature through photography  
-📸 Instagram: [clicks_.of._nature](https://instagram.com/clicks_.of._nature)
+📸 Instagram: [clicks_.of._nature](https://www.instagram.com/clicks_.of._nature/)
