@@ -1,13 +1,39 @@
-# 👋 Hi, I’m @0Divyanshu0
+# 👋 Hi, I’m Divyanshu
 
-- 👀 I’m interested in web development, problem-solving, and exploring dynamic programming, data structures, and algorithms.
-- 🌱 I’m currently learning JavaScript, front-end frameworks, and diving deeper into SQL and front-end projects.
-- 💞️ I want to collaborate on exciting open-source projects, web development, and algorithmic challenges.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/divyanshu-srivastava-73761721b/), [Email](mailto:divyanshusrivastava777@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Besides coding, I love gaming and photography! Check out my work -> [here](https://instagram.com/clicks_.of._nature?igshid=YmMyMTA2M2Y=).
+🎓 Computer Science Graduate | 💼 Trainee Decision Scientist @ Mu Sigma  
+💡 Passionate about building practical solutions using web technologies and data
 
-<!---
-0Divyanshu0/0Divyanshu0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 👨‍💻 About Me
+- Currently working at **Mu Sigma**, gaining hands-on exposure to analytics, business understanding, and tech-driven problem solving
+- Interested in building clean, user-focused web applications
+- Strong foundation in problem-solving, databases, and frontend development
+- I enjoy learning by building and improving real-world projects
+
+---
+
+## 🛠️ Skills & Tools
+- **Languages:** JavaScript, Python, SQL  
+- **Web Development:** React, HTML, CSS, Node.js  
+- **Databases:** PostgreSQL, SQL Server  
+- **Tools & Platforms:** Git, GitHub, VS Code, Linux  
+- **Concepts:** REST APIs, Agile basics, data handling
+
+---
+
+## 📌 Featured Projects
+- **EasyMadeInsights** – Interactive data insights dashboard with KPIs and charts  
+- **EasyMadeResume** – Simple and clean resume creation tool  
+- **Employee Performance System** – Task and performance management system  
+
+👉 Check out my repositories to see how I approach real-world problems.
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: [Divyanshu Srivastava](https://www.linkedin.com/in/divyanshu-srivastava-73761721b/)
+- 📧 Email: divyanshusrivastava777@gmail.com
+
+⚡ Fun fact: When I’m not coding, I enjoy gaming and capturing nature through photography  
+📸 Instagram: [clicks_.of._nature](https://instagram.com/clicks_.of._nature)
