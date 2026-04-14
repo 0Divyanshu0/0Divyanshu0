@@ -6,19 +6,63 @@
 ---
 
 ## 👨‍💻 About Me
-- Currently working at **Mu Sigma**, gaining hands-on exposure to analytics, business understanding, and tech-driven problem solving
-- Interested in building clean, user-focused web applications
-- Strong foundation in problem-solving, databases, and frontend development
-- I enjoy learning by building and improving real-world projects
+-Currently working at Mu Sigma, solving real-world business problems using data-driven insights
+-Experience in analytics workflows, incident management, and data handling in production environments
+-Strong interest in full-stack development + data analytics + system design
+-Recently exploring CI/CD pipelines, Docker, and backend scalability
+-I believe in learning by building and continuously improving real-world projects
 
 ---
-
 ## 🛠️ Skills & Tools
-- **Languages:** JavaScript, Python, SQL  
-- **Web Development:** React, HTML, CSS, Node.js  
-- **Databases:** PostgreSQL, SQL Server  
-- **Tools & Platforms:** Git, GitHub, VS Code, Linux  
-- **Concepts:** REST APIs, Agile basics, data handling
+
+### 💻 Languages
+
+* JavaScript, Python, SQL
+
+### 🌐 Web Development
+
+* React.js, Node.js, Express.js
+* HTML5, CSS3
+* REST API Development & Integration
+
+### 🗄️ Databases
+
+* PostgreSQL, SQL Server
+* MongoDB (NoSQL data modeling & CRUD operations)
+
+### ⚙️ Backend & Frameworks
+
+* Node.js (server-side development)
+* Express.js (API & backend services)
+* Nest.js (scalable backend architecture – basics)
+
+### 📊 Data & Analytics
+
+* Data Cleaning & Transformation
+* Exploratory Data Analysis (EDA)
+* Data Build Tool (DBT) – data transformation workflows
+* KPI Dashboards & Business Insights
+
+### 🚀 DevOps & Deployment
+
+* CI/CD Pipeline (basics – build, test, deploy workflows)
+* Docker (containerization fundamentals)
+* Deployment & Hosting (web applications)
+* Linux (command line, basic system operations)
+* NGINX & Server Configuration (basics)
+
+### 🧠 Concepts
+
+* RESTful API Design
+* Agile & SDLC Basics
+* Incident Management & Debugging
+* Data Handling & Backend Integration
+
+### 🛠️ Tools & Platforms
+
+* Git, GitHub
+* VS Code
+* Linux Environment
 
 ---
 
