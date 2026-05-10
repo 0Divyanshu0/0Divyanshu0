@@ -50,6 +50,8 @@
 * Deployment & Hosting (web applications)
 * Linux (command line, basic system operations)
 * NGINX & Server Configuration (basics)
+* Monitoring & Observability (Prometheus, Grafana, Loki, Promtail)
+* Centralized Logging with Winston (structured logging for production systems)
 
 ### 🧠 Concepts
 
@@ -57,12 +59,18 @@
 * Agile & SDLC Basics
 * Incident Management & Debugging
 * Data Handling & Backend Integration
+* Observability (metrics, logs, monitoring pipelines)
+* Distributed System Debugging (logs across services & environments)
 
 ### 🛠️ Tools & Platforms
 
 * Git, GitHub
 * VS Code
 * Linux Environment
+* Grafana (dashboards & log exploration)
+* Prometheus (metrics collection)
+* Loki (log aggregation)
+* Promtail (log shipping)
 
 ---
 
